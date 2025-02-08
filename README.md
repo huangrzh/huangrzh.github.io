@@ -1,8 +1,7 @@
 ## Rui-Zhen Huang's Research Homepage
 I am a theoretical physicist specializing in condensed matter physics, particularly strongly correlated quantum many-body systems. See my [scholar page](https://scholar.google.com/citations?user=mWLsNWoAAAAJ&hl=en) for my recent research.
 
-## Curriculum Vitae (CV)
-### Work Experience
+## Work Experience
 - **2025.01 - present**: Associated Researcher, Graduate School of China Academy of Engineering Physics
 - **2021.12 - 2025.01**: Postdoc, Ghent University
 - **2018.07 - 2021.12**: Postdoc, Kavli Institute for Theoretical Sciences, UCAS
