@@ -2,12 +2,12 @@
 I am a theoretical physicist specializing in condensed matter physics, particularly strongly correlated quantum many-body systems. See my [scholar page](https://scholar.google.com/citations?user=mWLsNWoAAAAJ&hl=en) for my recent research.
 
 ## Work Experience
-- **2025.01 - present**: Associated Researcher, Graduate School of China Academy of Engineering Physics
+- **2025.01 - present**: Associate Researcher, Graduate School of China Academy of Engineering Physics
 - **2021.12 - 2025.01**: Postdoc, Ghent University
 - **2018.07 - 2021.12**: Postdoc, Kavli Institute for Theoretical Sciences, UCAS
 
 ## Education
-- **2013 - 2018**: PhD in Physics, supervised by Prof. Tao Xiang, Institute of Physics, Chinese Academy of Sciences (CAS)
+- **2013 - 2018**: PhD in Theoretical Physics, supervised by Prof. Tao Xiang, Institute of Physics, Chinese Academy of Sciences (CAS)
 - **2009 - 2013**: BS in Physics, supervised by Prof. Cheng-Long Jia, Lanzhou University
 
 ## Opportunities
@@ -20,7 +20,7 @@ We are currently hiring a postdoctoral researcher to work on condensed matter th
 1. Strong research interest and motivation in condensed matter theory.
 2. At least one of the following research backgrounds:
    - (a) Generalized symmetries (lattice or QFT, noninvertible/categorical symmetry)
-   - (b) (Boundary/defect) Conformal field theory
+   - (b) (Boundary/defect) CFT or TQFT
    - (c) Strongly correlated quantum many-body systems (quantum magnetism, high-temperature superconductivity, SPT, topological order, etc.)
    - (d) Tensor networks (MPS/MERA/PEPS/TRG) or quantum information theory
 3. PhD completed prior to appointment, with at least one peer-reviewed publication as a major contributor.
