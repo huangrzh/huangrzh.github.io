@@ -10,11 +10,19 @@ I am a theoretical physicist specializing in condensed matter physics, particula
 - **2013 - 2018**: PhD in Theoretical Physics, supervised by Prof. Tao Xiang, Institute of Physics, Chinese Academy of Sciences (CAS)
 - **2009 - 2013**: BS in Physics, supervised by Prof. Cheng-Long Jia, Lanzhou University
 
-## Opportunities
-We are currently hiring a postdoctoral researcher to work on condensed matter theory in a broad sense. If you are interested, feel free to contact me at:
+
+## Posititions
+We are currently seeking motivated candidates for PhD and Postdoctoral positions. If you are interested, feel free to contact me:
 
 - huangrzh@icloud.com
 - rzhuang@gscaep.ac.cn
+
+### PhD
+We plan to hire one Phd student every year. 
+
+
+### PostDoc
+We are currently hiring a postdoctoral researcher to work on condensed matter theory in a broad sense. 
 
 #### Requirements:
 1. Strong research interest and motivation in condensed matter theory.
