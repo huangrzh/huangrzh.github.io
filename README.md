@@ -2,7 +2,7 @@
 I am a theoretical physicist specializing in condensed matter physics, particularly strongly correlated quantum many-body systems. See my [scholar page](https://scholar.google.com/citations?user=mWLsNWoAAAAJ&hl=en) for my recent research.
 
 ## Work Experience
-- **2025.01 - present**: Associate Researcher, Graduate School of China Academy of Engineering Physics
+- **2025.01 - present**: Associate Researcher, [Graduate School of China Academy of Engineering Physics](https://gscaep.ac.cn/subPage/kxyj.html?index=0#two=0/)
 - **2021.12 - 2025.01**: Postdoc, Ghent University
 - **2018.07 - 2021.12**: Postdoc, Kavli Institute for Theoretical Sciences, UCAS
 
