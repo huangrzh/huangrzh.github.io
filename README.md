@@ -27,10 +27,10 @@ We are currently hiring a postdoctoral researcher to work on condensed matter th
 #### Requirements:
 1. Strong research interest and motivation in condensed matter theory.
 2. At least one of the following research backgrounds:
-   - (a) Generalized symmetries (lattice or QFT, noninvertible/categorical symmetry)
-   - (b) (Boundary/defect) CFT or TQFT
-   - (c) Strongly correlated quantum many-body systems (quantum magnetism, high-temperature superconductivity, SPT, topological order, etc.)
-   - (d) Tensor networks (MPS/MERA/PEPS/TRG) or quantum information theory
+   - Generalized symmetries (lattice or QFT, noninvertible/categorical symmetry)
+   - (Boundary/defect) CFT or TQFT
+   - Strongly correlated quantum many-body systems (quantum magnetism, high-temperature superconductivity, SPT, topological order, etc.)
+   - Tensor networks (MPS/MERA/PEPS/TRG) or quantum information theory
 3. PhD completed prior to appointment, with at least one peer-reviewed publication as a major contributor.
 
 #### Offer:
